@@ -58,7 +58,7 @@ Brugere skal også kunne slette deres egne lister.
 
 ## Aflevering
 
-Du aftaler med din lærer hvornår og hvordan projektet skal afleveres.
+Opgaven skal afleveres fredag d. 31 maj, i den tilstand I har nået.
 
 ## Tips
 
